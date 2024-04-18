@@ -1,0 +1,6 @@
+What we used here ??? 
+=> we use swiper frame work (i.e)js frame work for amazing animated and transition behaviour which makes the website look like a formal manner 
+
+
+
+
